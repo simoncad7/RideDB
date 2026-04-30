@@ -1,6 +1,6 @@
 [
   {
     "name": "aupa",
-    "gbfs_url": "https://backend.citiz.fr/public/provider/20/gbfs/v3.0/gbfs.json"
+    "gbfs_url": "https://backend.citiz.fr/public/provider/20/gbfs/3.0/gbfs.json"
   }
 ]

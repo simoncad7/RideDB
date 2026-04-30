@@ -1,7 +1,7 @@
 [
   {
     "name": "citiz_metropole_lyon",
-    "gbfs_url": "https://backend.citiz.fr/public/provider/3/gbfs/v3.0/gbfs.json"
+    "gbfs_url": "https://backend.citiz.fr/public/provider/3/gbfs/3.0/gbfs.json"
   },
   {
     "name": "dott-lyon",

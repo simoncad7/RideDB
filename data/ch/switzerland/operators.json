@@ -12,7 +12,7 @@
     "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/edrivecarsharing_ch/gbfs"
   },
   {
-    "name": "mobility",
+    "name": "mobility_ch",
     "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/mobility_ch/gbfs"
   },
   {
@@ -38,6 +38,10 @@
   {
     "name": "sharedmobility.ch",
     "gbfs_url": "https://www.sharedmobility.ch/gbfs.json"
+  },
+  {
+    "name": "sponti",
+    "gbfs_url": "https://gbfs.prod.sharedmobility.ch/v2/gbfs/sponti/gbfs"
   },
   {
     "name": "velospot_ch",

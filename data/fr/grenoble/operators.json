@@ -1,7 +1,7 @@
 [
   {
     "name": "citiz_alpes_loire",
-    "gbfs_url": "https://backend.citiz.fr/public/provider/5/gbfs/v3.0/gbfs.json"
+    "gbfs_url": "https://backend.citiz.fr/public/provider/5/gbfs/3.0/gbfs.json"
   },
   {
     "name": "voi_Grenoble",

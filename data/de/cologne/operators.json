@@ -6,5 +6,9 @@
   {
     "name": "nextbike_kg",
     "gbfs_url": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_kg/gbfs.json"
+  },
+  {
+    "name": "nextbike_sv",
+    "gbfs_url": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_sv/gbfs.json"
   }
 ]

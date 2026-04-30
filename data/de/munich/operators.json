@@ -10,5 +10,9 @@
   {
     "name": "dott-munich",
     "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/munich/gbfs.json"
+  },
+  {
+    "name": "nextbike_ml",
+    "gbfs_url": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_ml/gbfs.json"
   }
 ]
