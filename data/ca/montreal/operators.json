@@ -1,7 +1,7 @@
 [
   {
     "name": "Bixi_MTL",
-    "gbfs_url": "https://gbfs.velobixi.com/gbfs/gbfs.json"
+    "gbfs_url": "https://gbfs.velobixi.com/gbfs/2-2/gbfs.json"
   },
   {
     "name": "locomotion_montreal",
