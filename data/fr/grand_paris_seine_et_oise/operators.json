@@ -2,5 +2,9 @@
   {
     "name": "dott-gpseo",
     "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/gpseo/gbfs.json"
+  },
+  {
+    "name": "voi_Grand_Paris_Seine_et_Oise",
+    "gbfs_url": "https://api.voiapp.io/gbfs/fr/6bb6b5dc-1cda-4da7-9216-d3023a0bc54a/v2/422/gbfs.json"
   }
 ]

@@ -22,5 +22,9 @@
   {
     "name": "pony_bordeaux",
     "gbfs_url": "https://proxy.transport.data.gouv.fr/resource/pony-bordeaux-gbfs/gbfs.json"
+  },
+  {
+    "name": "yego bordeaux",
+    "gbfs_url": "https://services.rideyego.com/gbfs/2-3/bordeaux/fr/gbfs"
   }
 ]

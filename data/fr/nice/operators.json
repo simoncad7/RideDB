@@ -10,5 +10,9 @@
   {
     "name": "pony_Nice",
     "gbfs_url": "https://proxy.transport.data.gouv.fr/resource/pony-nice-gbfs/gbfs.json"
+  },
+  {
+    "name": "yego nice",
+    "gbfs_url": "https://services.rideyego.com/gbfs/2-3/nice/fr/gbfs"
   }
 ]

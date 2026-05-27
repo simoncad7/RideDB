@@ -4,6 +4,10 @@
     "gbfs_url": "https://api.ridecheck.app/gbfs/v3/groningen/gbfs.json"
   },
   {
+    "name": "dott-groningen",
+    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/groningen/gbfs.json"
+  },
+  {
     "name": "cooltra_groningen",
     "gbfs_url": "https://maas.zeus.cooltra.com/gbfs/groningen/3.0/en/gbfs.json"
   }

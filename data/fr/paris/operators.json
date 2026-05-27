@@ -18,5 +18,9 @@
   {
     "name": "voi_Paris",
     "gbfs_url": "https://api.voiapp.io/gbfs/fr/6bb6b5dc-1cda-4da7-9216-d3023a0bc54a/v2/352/gbfs.json"
+  },
+  {
+    "name": "yego paris",
+    "gbfs_url": "https://services.rideyego.com/gbfs/2-3/paris/fr/gbfs"
   }
 ]

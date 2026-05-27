@@ -10,5 +10,9 @@
   {
     "name": "toulouse",
     "gbfs_url": "https://api.cyclocity.fr/contracts/toulouse/gbfs/v3/gbfs.json"
+  },
+  {
+    "name": "yego toulouse",
+    "gbfs_url": "https://services.rideyego.com/gbfs/2-3/toulouse/fr/gbfs"
   }
 ]

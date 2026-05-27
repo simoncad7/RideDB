@@ -1,6 +1,6 @@
 [
   {
-    "name": "HELBIZ-US",
-    "gbfs_url": "https://gbfs.helbiz.com/v2.2/genova/gbfs.json"
+    "name": "dott-genova",
+    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/genova/gbfs.json"
   }
 ]
