@@ -2,5 +2,9 @@
   {
     "name": "citiz_la_rochelle",
     "gbfs_url": "https://backend.citiz.fr/public/provider/18/gbfs/3.0/gbfs.json"
+  },
+  {
+    "name": "citiz_la_rochelle",
+    "gbfs_url": "https://opendata.agglo-larochelle.fr/sites/default/files/dataset/2dc/df9ac-ca89-4e3f-af7e-5d75f255ee5e/gbfs.json"
   }
 ]
