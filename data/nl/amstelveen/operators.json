@@ -1,0 +1,6 @@
+[
+  {
+    "name": "check_amstelveen",
+    "gbfs_url": "https://api.ridecheck.app/gbfs/v3/amstelveen/gbfs.json"
+  }
+]
