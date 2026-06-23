@@ -1,5 +1,9 @@
 [
   {
+    "name": "provider-null-blois-france",
+    "gbfs_url": "https://mds.bird.co/gbfs/v2/public/provider/bird/blois-france/gbfs.json"
+  },
+  {
     "name": "getaround_blois",
     "gbfs_url": "https://getaround.com/gbfs/v3/blois/gbfs"
   }
