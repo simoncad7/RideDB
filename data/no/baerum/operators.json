@@ -2,5 +2,9 @@
   {
     "name": "getaround_baerum",
     "gbfs_url": "https://getaround.com/gbfs/v3/baerum/gbfs"
+  },
+  {
+    "name": "voibaerum",
+    "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/voibaerum/gbfs"
   }
 ]
