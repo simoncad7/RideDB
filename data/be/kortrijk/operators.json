@@ -2,5 +2,9 @@
   {
     "name": "dott-kortrijk",
     "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/kortrijk/gbfs.json"
+  },
+  {
+    "name": "lime_kortrijk",
+    "gbfs_url": "https://data.lime.bike/api/partners/v2/gbfs/kortrijk/gbfs.json"
   }
 ]
