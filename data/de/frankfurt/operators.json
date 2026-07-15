@@ -1,9 +1,5 @@
 [
   {
-    "name": "dott-frankfurt",
-    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/frankfurt/gbfs.json"
-  },
-  {
     "name": "lime_frankfurt",
     "gbfs_url": "https://data.lime.bike/api/partners/v2/gbfs/frankfurt/gbfs.json"
   },
