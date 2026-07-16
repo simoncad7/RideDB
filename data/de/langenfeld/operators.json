@@ -2,5 +2,9 @@
   {
     "name": "dott-langenfeld",
     "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/langenfeld/gbfs.json"
+  },
+  {
+    "name": "nextbike_lr",
+    "gbfs_url": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_lr/gbfs.json"
   }
 ]
