@@ -2,5 +2,9 @@
   {
     "name": "bird-wiener neustadt",
     "gbfs_url": "https://mds.bird.co/gbfs/v2/public/wienerneustadt/gbfs.json"
+  },
+  {
+    "name": "dott-wiener-neustadt",
+    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/wiener-neustadt/gbfs.json"
   }
 ]
