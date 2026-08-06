@@ -1,5 +1,9 @@
 [
   {
+    "name": "inurba-budapest",
+    "gbfs_url": "https://gbfs.urbansharing.com/molbubi.hu/gbfs.json"
+  },
+  {
     "name": "donkey_budapest",
     "gbfs_url": "https://stables.donkey.bike/api/public/gbfs/3.0/donkey_budapest/gbfs.json"
   },
