@@ -1,5 +1,9 @@
 [
   {
+    "name": "lime_dresden",
+    "gbfs_url": "https://data.lime.bike/api/partners/v2/gbfs/dresden/gbfs.json"
+  },
+  {
     "name": "nextbike_dx",
     "gbfs_url": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_dx/gbfs.json"
   }

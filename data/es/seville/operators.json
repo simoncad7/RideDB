@@ -1,6 +1,10 @@
 [
   {
     "name": "seville",
+    "gbfs_url": "https://maas.zeus.cooltra.com/gbfs/seville/3.0/en/gbfs.json"
+  },
+  {
+    "name": "seville",
     "gbfs_url": "https://api.cyclocity.fr/contracts/seville/gbfs/v3/gbfs.json"
   }
 ]

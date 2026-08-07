@@ -2,5 +2,9 @@
   {
     "name": "MEX",
     "gbfs_url": "https://gbfs.mex.lyftbikes.com/gbfs/gbfs.json"
+  },
+  {
+    "name": "lime_mexico_city",
+    "gbfs_url": "https://data.lime.bike/api/partners/v2/gbfs/mexico_city/gbfs.json"
   }
 ]

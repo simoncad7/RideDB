@@ -1,7 +1,7 @@
 [
   {
     "name": "lyft_bay",
-    "gbfs_url": "https://gbfs.baywheels.com/gbfs/2.3/gbfs.json"
+    "gbfs_url": "https://gbfs.lyftbikes.com/gbfs/2.3/gbfs.json"
   },
   {
     "name": "lime_san_francisco",

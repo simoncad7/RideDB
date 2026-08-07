@@ -4,6 +4,14 @@
     "gbfs_url": "https://mds.bird.co/gbfs/v2/public/helsinki/gbfs.json"
   },
   {
+    "name": "citybikes_helsinki",
+    "gbfs_url": "https://gbfs.theta.fifteen.eu/gbfs/2.2/helsinki/en/gbfs.json"
+  },
+  {
+    "name": "donkey_helsinki",
+    "gbfs_url": "https://stables.donkey.bike/api/public/gbfs/3.0/donkey_helsinki/gbfs.json"
+  },
+  {
     "name": "dott-helsinki",
     "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/helsinki/gbfs.json"
   }

@@ -1,5 +1,9 @@
 [
   {
+    "name": "BoltEU_Austin",
+    "gbfs_url": "https://mds.bolt.eu/gbfs/3/339/gbfs"
+  },
+  {
     "name": "austin",
     "gbfs_url": "https://austin.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
   }

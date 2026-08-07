@@ -8,6 +8,10 @@
     "gbfs_url": "https://mds.bird.co/gbfs/v2/public/madrid/gbfs.json"
   },
   {
+    "name": "madrid",
+    "gbfs_url": "https://maas.zeus.cooltra.com/gbfs/madrid/3.0/en/gbfs.json"
+  },
+  {
     "name": "getaround_madrid",
     "gbfs_url": "https://getaround.com/gbfs/v3/madrid/gbfs"
   }
