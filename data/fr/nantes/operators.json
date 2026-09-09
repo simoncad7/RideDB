@@ -8,6 +8,10 @@
     "gbfs_url": "https://getaround.com/gbfs/v3/nantes/gbfs"
   },
   {
+    "name": "Marguerite_FR_Nantes",
+    "gbfs_url": "https://www.imarguerite.com/opendata/gbfs/gbfs.json"
+  },
+  {
     "name": "nantes",
     "gbfs_url": "https://api.cyclocity.fr/contracts/nantes/gbfs/v3/gbfs.json"
   }
