@@ -1,9 +1,5 @@
 [
   {
-    "name": "dott-asker",
-    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/asker/gbfs.json"
-  },
-  {
     "name": "getaround_asker",
     "gbfs_url": "https://getaround.com/gbfs/v3/asker/gbfs"
   }
