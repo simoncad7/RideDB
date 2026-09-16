@@ -20,6 +20,10 @@
     "gbfs_url": "https://data.lime.bike/api/partners/v2/gbfs/marseille/gbfs.json"
   },
   {
+    "name": "pony_Marseille",
+    "gbfs_url": "https://proxy.transport.data.gouv.fr/resource/pony-marseille-gbfs/gbfs.json"
+  },
+  {
     "name": "voi_Marseille",
     "gbfs_url": "https://api.voiapp.io/gbfs/fr/6bb6b5dc-1cda-4da7-9216-d3023a0bc54a/v2/66/gbfs.json"
   }
