@@ -9,7 +9,7 @@
   },
   {
     "name": "oslobysykkel",
-    "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/oslobysykkel/gbfs"
+    "gbfs_url": "https://gbfs.urbansharing.com/oslobysykkel.no/gbfs.json"
   },
   {
     "name": "rydeoslo",

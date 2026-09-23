@@ -6,5 +6,9 @@
   {
     "name": "nextbike_bi",
     "gbfs_url": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_bi/gbfs.json"
+  },
+  {
+    "name": "whitebikes_bratislava",
+    "gbfs_url": "https://whitebikes.info/gbfs.json"
   }
 ]

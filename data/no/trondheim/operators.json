@@ -13,7 +13,7 @@
   },
   {
     "name": "trondheimbysykkel",
-    "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/trondheimbysykkel/gbfs"
+    "gbfs_url": "https://gbfs.urbansharing.com/trondheimbysykkel.no/gbfs.json"
   },
   {
     "name": "voitrondheim",
