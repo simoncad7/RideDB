@@ -1,26 +1,10 @@
 [
   {
-    "name": "avant2go_si",
-    "gbfs_url": "https://gbfs.derp.si/gbfs/avant2go_si/gbfs.json"
-  },
-  {
     "name": "ljubljana",
     "gbfs_url": "https://api.cyclocity.fr/contracts/ljubljana/gbfs/v3/gbfs.json"
   },
   {
-    "name": "BoltEU_Ljubljana",
-    "gbfs_url": "https://gbfs.derp.si/bolt_proxy/2/359/gbfs"
-  },
-  {
-    "name": "kvik",
-    "gbfs_url": "https://gbfs.derp.si/gbfs/kvik/gbfs.json"
-  },
-  {
     "name": "nextbike_cc",
     "gbfs_url": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_cc/gbfs.json"
-  },
-  {
-    "name": "sharengo",
-    "gbfs_url": "https://gbfs.derp.si/gbfs/sharengo/gbfs.json"
   }
 ]
