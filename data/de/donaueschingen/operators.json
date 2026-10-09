@@ -2,5 +2,9 @@
   {
     "name": "ford_carsharing_autohausalbert",
     "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/ford_carsharing_autohausalbert/gbfs"
+  },
+  {
+    "name": "zeus_donaueschingen",
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/zeus_donaueschingen/gbfs"
   }
 ]

@@ -12,6 +12,10 @@
     "gbfs_url": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_fg/gbfs.json"
   },
   {
+    "name": "lastenkarle",
+    "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/lastenkarle/gbfs"
+  },
+  {
     "name": "stadtmobil_karlsruhe",
     "gbfs_url": "https://api.mobidata-bw.de/sharing/gbfs/v3/stadtmobil_karlsruhe/gbfs"
   }
