@@ -1,9 +1,5 @@
 [
   {
-    "name": "dott-russelsheim",
-    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/russelsheim/gbfs.json"
-  },
-  {
     "name": "nextbike_do",
     "gbfs_url": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_do/gbfs.json"
   },

@@ -10,9 +10,5 @@
   {
     "name": "donkey_helsinki",
     "gbfs_url": "https://stables.donkey.bike/api/public/gbfs/3.0/donkey_helsinki/gbfs.json"
-  },
-  {
-    "name": "dott-helsinki",
-    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/helsinki/gbfs.json"
   }
 ]

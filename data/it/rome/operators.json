@@ -6,9 +6,5 @@
   {
     "name": "rome",
     "gbfs_url": "https://maas.zeus.cooltra.com/gbfs/rome/3.0/en/gbfs.json"
-  },
-  {
-    "name": "dott-rome",
-    "gbfs_url": "https://gbfs.api.ridedott.com/public/v2/rome/gbfs.json"
   }
 ]
