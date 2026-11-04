@@ -2,5 +2,9 @@
   {
     "name": "getaround_bodo",
     "gbfs_url": "https://getaround.com/gbfs/v3/bodo/gbfs"
+  },
+  {
+    "name": "rydebodo",
+    "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/rydebodo/gbfs"
   }
 ]

@@ -12,6 +12,10 @@
     "gbfs_url": "https://getaround.com/gbfs/v3/lillestrom/gbfs"
   },
   {
+    "name": "rydelillestrom",
+    "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/rydelillestrom/gbfs"
+  },
+  {
     "name": "voilillestrom",
     "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/voilillestrom/gbfs"
   }

@@ -2,5 +2,9 @@
   {
     "name": "getaround_antony",
     "gbfs_url": "https://getaround.com/gbfs/v3/antony/gbfs"
+  },
+  {
+    "name": "lime_antony",
+    "gbfs_url": "https://data.lime.bike/api/partners/v2/gbfs/antony/gbfs.json"
   }
 ]

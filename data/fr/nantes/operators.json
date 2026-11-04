@@ -14,5 +14,9 @@
   {
     "name": "nantes",
     "gbfs_url": "https://api.cyclocity.fr/contracts/nantes/gbfs/v3/gbfs.json"
+  },
+  {
+    "name": "voi_Nantes",
+    "gbfs_url": "https://api.voiapp.io/gbfs/fr/6bb6b5dc-1cda-4da7-9216-d3023a0bc54a/v2/421/gbfs.json"
   }
 ]

@@ -2,5 +2,9 @@
   {
     "name": "getaround_lorenskog",
     "gbfs_url": "https://getaround.com/gbfs/v3/lorenskog/gbfs"
+  },
+  {
+    "name": "rydelorenskog",
+    "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/rydelorenskog/gbfs"
   }
 ]
