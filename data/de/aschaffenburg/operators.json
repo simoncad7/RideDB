@@ -2,5 +2,9 @@
   {
     "name": "5534922f6997f4d861ce1b33f2efce21a470c22",
     "gbfs_url": "https://abmitlara.de/wp-json/commonsbooking/v1/gbfs.json"
+  },
+  {
+    "name": "moqo_team_277065271",
+    "gbfs_url": "https://portal.moqo.de/api/data_sharing/7nFoN9f8iX1yFHR4oQa5omHk/gbfs"
   }
 ]

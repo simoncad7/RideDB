@@ -12,6 +12,10 @@
     "gbfs_url": "https://getaround.com/gbfs/v3/bergen/gbfs"
   },
   {
+    "name": "rydebergen",
+    "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/rydebergen/gbfs"
+  },
+  {
     "name": "voibergen",
     "gbfs_url": "https://api.entur.io/mobility/v2/gbfs/v3/voibergen/gbfs"
   }
